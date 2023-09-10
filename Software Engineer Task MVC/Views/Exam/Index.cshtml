@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Exams";
+}
+@model IEnumerable<Exam> 
+
+<div class="row">
+    <div class="col col-sm-10">
+        <h2>@ViewData["Title"]</h2>
+    </div>
+    <div class="col col-sm-2">
+        <a href="/Exam/CreateExam" type="button" class="btn btn-outline-primary">Add New Exam</a>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col col-md-11">
+        <table class="table table-hover">
+            <thead>
+                <tr class="table-primary">
+                    <th scope="col">TotalGrads</th>
+                    <th scope="col">CreatedAt</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr class="table-secondary">
+                    <th scope="row">@item.TotalGrads</th>
+                    <td>@item.CreatedAt</td>
+                    <td>@item.Description</td>
+                        <td>
+@*                            <a type="button" class="btn btn-outline-success btn-sm" href="/Exam/EditExam/@item.ExamID">Edit</a>
+*@                            <form method="post" action="/Exam/DeleteExam?id=@item.ExamID" style="display:inline">
+                                <button type="submit" class="btn btn-outline-danger btn-sm" data-toggle="modal" data-target="#exampleModal">Delete</button>
+                            </form>
+                        </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+

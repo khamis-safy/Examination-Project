@@ -1,0 +1,124 @@
+﻿@{
+    ViewData["Title"] = "Create Exam";
+}
+@model CreateExamVM
+
+<div class="row">
+    <div class="col col-sm-10">
+        <h2>@ViewData["Title"]</h2>
+    </div>
+</div>
+
+<div class="row mt-3">
+
+    <div class="col col-lg-4 col-md-12">
+
+        <div class="form-group">
+            <label for="Description" class="form-label mt-4">Description</label>
+            <input type="text" class="form-control" id="Description" placeholder="Enter Description">
+        </div>
+        <hr />
+        <h5>Questions Section</h5>
+
+        <div class="form-group">
+            <label for="QuestionText" class="form-label mt-4">Question Text</label>
+            <input type="text" class="form-control" id="QuestionText" placeholder="Enter Question Text">
+        </div>
+        <div class="form-group">
+            <label for="QuestionMarks" class="form-label mt-4">Question Marks Count</label>
+            <input type="number" class="form-control" id="QuestionMarks" placeholder="Enter Marks Count">
+        </div>
+        <div class="form-group">
+            <label for="QuestionType" class="form-label mt-4">Question Type</label>
+            <select class="form-select" id="QuestionType">
+            <option>Essay</option>
+            <option>Multiple Choices</option>
+            <option>True/False</option>
+          </select>
+        </div>
+
+        <div class="form-group " id="ChoicesDiv">
+            <label class="form-label mt-4">Choices:</label>
+            <div id="options-container">
+                <div class="form-check mb-2 ">
+                    <input class="form-check-input" type="radio" name="answer" id="option1" value="">
+                    <label class="form-check-label w-100" for="option1">
+                        <input type="text" class="form-control" placeholder="Enter option" onchange="updateOptionLabel(this, 1)">
+                    </label>
+                </div>
+                <div class="form-check mb-2">
+                    <input class="form-check-input" type="radio" name="answer" id="option2" value="">
+                    <label class="form-check-label w-100" for="option2">
+                       <input type="text" class="form-control" placeholder="Enter option" onchange="updateOptionLabel(this, 2)">
+                    </label>
+                </div>
+                 <!-- Options will be dynamically added here -->
+
+
+            </div>
+            <button type="button" class="btn btn-outline-success w-100" onclick="addOption()">Add Choice</button>
+
+        </div>
+
+        <div class="form-group " id="TrueFalseDiv">
+            <label class="form-label mt-4">Choices:</label>
+            <div id="options-container">
+                <div class="form-check mb-2 ">
+                    <input class="form-check-input" type="radio" name="answer" id="option1" value="">
+                    <label class="form-check-label w-100" for="option1">
+                        <input type="text" class="form-control" placeholder="Enter option" onchange="updateOptionLabel(this, 1)" value="True">
+                    </label>
+                </div>
+                <div class="form-check mb-2">
+                    <input class="form-check-input" type="radio" name="answer" id="option2" value="">
+                    <label class="form-check-label w-100" for="option2">
+                        <input type="text" class="form-control" placeholder="Enter option" onchange="updateOptionLabel(this, 2)" value="False">
+                    </label>
+                </div>
+
+
+            </div>
+
+        </div>
+
+        <button type="button" class="btn btn-outline-primary w-100 mt-5" onclick="saveQuestion()">Save Question</button>
+
+
+
+    </div>
+
+    <div class="col col-lg-8 col-md-12">
+        <div id="questionDetails" style="display: none;">
+            <h4>Question Details</h4>
+            <p><strong>Question Text:</strong> <span id="detailQuestionText"></span></p>
+            <p><strong>Question Type:</strong> <span id="detailQuestionType"></span></p>
+            <p><strong>Question Marks:</strong> <span id="detailQuestionMarks"></span></p> <!-- Add this line -->
+            <p><strong>Question Choices:</strong></p>
+            <ul id="detailQuestionChoices"></ul>
+        </div>
+
+        <table class="table table-hover">
+            <thead>
+                <tr class="table-primary">
+                    <th scope="col">Question Text</th>
+                    <th scope="col">Question Type</th>
+                    <th scope="col">Question Marks</th> <!-- Add this header -->
+
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+            <button type="button" class="btn btn-outline-primary mt-3" onclick="submitQuestions()">Submit</button>
+
+    </div>
+</div>
+
+
+
+
+
+
+

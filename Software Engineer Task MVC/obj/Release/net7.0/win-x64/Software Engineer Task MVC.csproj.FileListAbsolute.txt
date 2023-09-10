@@ -1,0 +1,56 @@
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\appsettings.Development.json
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\appsettings.json
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Software Engineer Task MVC.staticwebassets.runtime.json
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Software Engineer Task MVC.exe
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Software Engineer Task MVC.deps.json
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Software Engineer Task MVC.runtimeconfig.json
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Software Engineer Task MVC.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Software Engineer Task MVC.pdb
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Azure.Core.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Azure.Identity.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Dapper.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.Identity.Client.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.SqlServer.Server.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\System.Drawing.Common.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\System.Memory.Data.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\System.Runtime.Caching.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\System.Security.Permissions.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\System.Windows.Extensions.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\bin\Release\net7.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.csproj.AssemblyReference.cache
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.AssemblyInfoInputs.cache
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.AssemblyInfo.cs
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.csproj.CoreCompileInputs.cache
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.RazorAssemblyInfo.cache
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.RazorAssemblyInfo.cs
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\staticwebassets\msbuild.Software Engineer Task MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\staticwebassets\msbuild.build.Software Engineer Task MVC.props
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.Software Engineer Task MVC.props
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\staticwebassets\msbuild.buildTransitive.Software Engineer Task MVC.props
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\staticwebassets.pack.json
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\staticwebassets.build.json
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\staticwebassets.development.json
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\scopedcss\bundle\Software Engineer Task MVC.styles.css
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\scopedcss\projectbundle\Software Engineer Task MVC.bundle.scp.css
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.csproj.CopyComplete
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\refint\Software Engineer Task MVC.dll
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.pdb
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\Software Engineer Task MVC.genruntimeconfig.cache
+C:\Users\bahao\source\repos\Software Engineer Task MVC\Software Engineer Task MVC\obj\Release\net7.0\win-x64\ref\Software Engineer Task MVC.dll

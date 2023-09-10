@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Software Engineer Task MVC.props" />
+</Project>
