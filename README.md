@@ -5,9 +5,14 @@
 3- clone the project and run or publish the project
 
 
+
+
 **Project Description:**
 
 This small project is designed to create, administer, and grade digital examinations.
+
+
+
 
 **Libraries and Design Patterns Used:**
 
@@ -20,9 +25,14 @@ This small project is designed to create, administer, and grade digital examinat
 - Repository Design Pattern: Implemented to allow easy adaptation to different databases or ORMs in the future without rewriting code.
 - AJAX: Used in some requests to enhance the user experience.
 
+
+
 **Deployment:**
 1- i deployed the project in linux server using Docker"the docker hub image (khamisapis/softwareengineertaskmvc:latest)", and in a windows server using IIS.
 2- for security we need to add reverse proxy server like NGINX or Apache to hide the port number and handle the load palancing.
+
+
+
 
 **What Has Been Accomplished:**
 
@@ -32,11 +42,17 @@ This small project is designed to create, administer, and grade digital examinat
 4. Provided exam deletion functionality.
 5. Described the scoring algorithm and implemented a report generation function on the server-side.
 
+
+
+
 **Future Required Implementations:**
 
 1. **Identity for Authentication and Authorization:** Implement user authentication and authorization to protect student data. Utilize role-based authentication to allow administrators to manage exams and reports while enabling students to log in and take exams.
 
 2. **Complete Remaining Functionalities:** Implement the remaining required features, such as exam editing, a student's report viewing interface, and exam-taking capabilities for students.
+
+
+
 
 **Suggested Enhancements:**
 
