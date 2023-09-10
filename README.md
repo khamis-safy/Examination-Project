@@ -1,7 +1,9 @@
 **How to use**
 
 1- create a new database and name it "ExaminationDB".
+
 2- execute the sql query in the folder "Examination Resources/Schema Script.sql".
+
 3- clone the project and run or publish the project
 
 
