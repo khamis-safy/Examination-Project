@@ -13,6 +13,10 @@ This small project is designed to create, administer, and grade digital examinat
 - Repository Design Pattern: Implemented to allow easy adaptation to different databases or ORMs in the future without rewriting code.
 - AJAX: Used in some requests to enhance the user experience.
 
+**Deployment:**
+1- i deployed the project in linux server using Docker"the docker hub image (khamisapis/softwareengineertaskmvc:latest)", and in a windows server using IIS.
+2- for security we need to add reverse proxy server like NGINX or Apache to hide the port number and handle the load palancing.
+
 **What Has Been Accomplished:**
 
 1. Created a user-friendly single-page backend and interface for exam management.
