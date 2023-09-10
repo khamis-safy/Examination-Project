@@ -1,5 +1,3 @@
-Here's the corrected and validated project description:
-
 **Project Description:**
 
 This small project is designed to create, administer, and grade digital examinations.
